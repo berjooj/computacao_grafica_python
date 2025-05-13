@@ -2,7 +2,7 @@
 # N1 - Computação Gráfica e Processamento de Imagens
 
 ## Requisitos
-- **Python**: 3.8 ou superio
+- **Python**: 3.8 ou superior
 - **Pacotes Python**: Pygame (via `requirements.txt`), Turtle (incluso no Python)
 
 ## Como Executar
